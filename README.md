@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating i
 ## 🌐 Connect with Me
 
 - **Email**: ardramanoj02@gmail.com
-- **LinkedIn**: linkedin.com/in/ardra-c-108a4a2a2/
+- **LinkedIn**: [linkedin.com/in/ardra-c-108a4a2a2/](http://linkedin.com/in/ardra-c-108a4a2a2/)
 
 
 Thanks for visiting my profile! Let's build something amazing together. 😊
