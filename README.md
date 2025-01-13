@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating i
 ## 🚀 Skills & Technologies
 
 ### Languages
-- **Proficient**: Java, Python, SQL
+- **Proficient**: Java, Python, SQL,Javascript
 
 ### Web Development
 - **Frontend**: HTML, CSS
